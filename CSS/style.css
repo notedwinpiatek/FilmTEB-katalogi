@@ -5,6 +5,7 @@
 
 .tablegl {
     text-align: center;
+    border-spacing: 20px;
 }
 
 .tableinf {
@@ -34,5 +35,10 @@
     font-family: Arial, Helvetica, sans-serif;
     color: brown;
 }
-/*jest 23 i chcę spać no scam 100% true/*
-
+/*jest 23 i chcę spać no scam 100% true*/
+.listrez {
+   list-style-image: url('../img/man-silhouette.png'); 
+}
+.listafilmow {
+    list-style-image: url('../img/film.png'); 
+ }
