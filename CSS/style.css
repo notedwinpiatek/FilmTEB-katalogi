@@ -4,6 +4,7 @@
 }
 
 .tablegl {
+    background-color: cornflowerblue;
     text-align: center;
     border-spacing: 20px 5px;
 }
@@ -42,3 +43,6 @@
 .listafilmow {
     list-style-image: url('../img/film.png'); 
  }
+body {
+    cursor: url('../img/cursor.png') auto;
+}
